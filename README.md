@@ -5,6 +5,7 @@ This is my first project in Python. This is a simple task manager to track and m
 ## Installation
 
 Clone and repo and install
+
 git clone https://github.com/hawnbea/task-tracker.git
 cd task-tracker
 pip3 install -e .
@@ -30,3 +31,5 @@ tasks mark-done 1
 
 # Delete a task
 tasks delete 1
+
+https://roadmap.sh/projects/task-tracker
